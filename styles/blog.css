@@ -1,8 +1,9 @@
 div{
     background-color: tomato;
-    border: 10px;
+    border: 30px greenyellow;
     margin: 10px;
     padding: 10px 20px 30px 50px;
+
 }
 span{
     color: blue;
